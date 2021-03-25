@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+Hi Naim!
+
+Naim here, I like programming but programming doesn't like me.
+
+Sincerely,
+Naim Roslan.
